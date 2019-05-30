@@ -1,7 +1,9 @@
 .header {
-    background-color: #2149a0;
+    background-color: #14388E;
     color: white;
     padding: 20px;
     font-size: 18px;
-    font-family: "Open Sans", Arial, Helvetica, sans-serif
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    border-bottom: solid 5px;
+    border-bottom-color: #33CEFF;
 }
