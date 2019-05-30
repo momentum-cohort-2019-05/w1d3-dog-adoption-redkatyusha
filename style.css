@@ -30,8 +30,8 @@
     width: 15%;
     line-height: 1.5em;
     font-size: 12px;
-    float: left;
     padding: 5px;
+    display: inline-block;
 }
 
 .form legend {
