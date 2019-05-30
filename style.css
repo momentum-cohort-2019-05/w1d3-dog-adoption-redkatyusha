@@ -45,21 +45,14 @@
 }
 
 .dogs {
-
+    padding: 20px;
 }
 
-.column-left {
-
-}
-
-.column-right {
-
-}
-
-.column-center {
-
+.column {
+    padding: 10px;
+    display: inline-block;
 }
 
 .footer {
-
+    /* filler text */
 }
