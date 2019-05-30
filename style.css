@@ -27,9 +27,9 @@
 }
 
 .form {
-    width: 15%;
+    width: 16%;
     line-height: 1.25em;
-    font-size: 12.5px;
+    font-size: 14px;
     padding: 5px;
     display: inline-block;
 }
@@ -37,7 +37,6 @@
 .form legend {
     font-weight: bold;
     padding: 3px 6px;
-    font-size: 15px;
 }
 
 .form input {
