@@ -29,7 +29,7 @@
 .form {
     width: 15%;
     line-height: 1.5em;
-    font-size: 12px;
+    font-size: 12.5px;
     padding: 5px;
     display: inline-block;
 }
@@ -37,11 +37,11 @@
 .form legend {
     font-weight: bold;
     padding: 3px 6px;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .form input {
-    margin: .4rem;
+    margin: .5rem;
 }
 
 .dogs {
