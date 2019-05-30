@@ -28,7 +28,7 @@
 
 .form {
     width: 15%;
-    line-height: 1.5em;
+    line-height: 1.25em;
     font-size: 12.5px;
     padding: 5px;
     display: inline-block;
@@ -41,7 +41,7 @@
 }
 
 .form input {
-    margin: .5rem;
+    margin: .25rem;
 }
 
 .dogs {
