@@ -17,15 +17,31 @@
 .content {
     font-family: "Open Sans", Arial, Helvetica, sans-serif;
     padding: 30px;
-    line-height: 2.5em;
-}
-
-.intro {
-
+    line-height: 2.5rem;
 }
 
 .showdogs {
+    padding: 20px;
+    background-color: lightgray;
+    margin-top: 20px;
+}
 
+.form {
+    width: 15%;
+    line-height: 1.5em;
+    font-size: 12px;
+    float: left;
+    padding: 5px;
+}
+
+.form legend {
+    font-weight: bold;
+    padding: 3px 6px;
+    font-size: 14px;
+}
+
+.form input {
+    margin: .4rem;
 }
 
 .dogs {
